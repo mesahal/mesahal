@@ -1,7 +1,6 @@
-![Background Image]([url_to_your_image](https://i.pinimg.com/originals/f2/01/91/f20191032ee267e74964966cda74e848.jpg))
+![Background Image](https://github.com/Sahal2000/Sahal2000/blob/main/back.png)
 
-<h1 align="center">As-salamu alaykum, I am Md Sahal</h1>
-<h3 align="center">Competitive programmer | Software Engineer | Programming Trainer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahal2000&label=Profile%20views&color=0e75b6&style=flat" alt="sahal2000" /> </p>
 <p align="left"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy">
