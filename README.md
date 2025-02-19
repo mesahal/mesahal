@@ -189,23 +189,44 @@
 </tr>
 </table>
 
-## 💻 Technical Skills
+## 🛠 Tech Stack & Skills  
 
+### 🚀 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-languages: 'Java', 'JavaScript', 'TypeScript', 'C++',
-frontend: {
-        frameworks: ['React'],
-        styling: ['Tailwind CSS', 'Bootstrap'],
-    },
-    backend: {
-        frameworks: ['Spring Boot', 'Node.js'],
-        apis: ['REST'],
-        databases: ['Oracle', 'MySQL', 'PostgreSQL']
-    },
-    devops: 'Git', 'Docker',
-    architecture: ['Microservices', 'MVC', 'Event-Driven'],
-    currentlyLearning: ['System Design', 'Cloud Architecture'],
-    funFact: "I've solved over 3500 programming problems! �"
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠 Backend  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
+
+### 🗄️ Databases  
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠 DevOps & Tools  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏗️ Architecture  
+![Microservices](https://img.shields.io/badge/Microservices-%23FF8C00.svg?style=for-the-badge&logo=cloud&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%23007ACC.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-%231E90FF.svg?style=for-the-badge&logo=eventbrite&logoColor=white)
+
+### 📚 Currently Learning  
+![System Design](https://img.shields.io/badge/System%20Design-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-%23FF6F00.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🎉 Fun Fact  
+🚀 **I've solved over 3500 programming problems!**  
 
 📊 GitHub Statistics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak" /> </div>
