@@ -1,111 +1,245 @@
-![Background Image](https://github.com/mesahal/mesahal/blob/main/back.png) <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mesahal&label=Profile%20views&color=0e75b6&style=flat" alt="mesahal" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mesahal&theme=nord" alt="mesahal" />
-  </a>
-</p>
-<p>- Java Spring Boot Developer @ <a href="https://brainstation-23.com/?1">Brain Station 23</a>
-</p>
-<div align="left">
+<div align="center">
+  <img src="https://github.com/mesahal/mesahal/blob/main/back.png" alt="Header" width="100%"/>
+  
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=dark" alt="mesahal" />
+    <img src="https://komarev.com/ghpvc/?username=mesahal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
+
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mesahal&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-<div align="right">
-  <p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=dark" alt="mesahal" />
-  </p>
+
+# 👋 As-salamu alaykum, I'm Sahal
+
+> Software Engineer @ [Brain Station 23](https://brainstation-23.com) | Competitive Programmer | Problem Solver
+
+<div align="center">
+
+[![Total Problems Solved](https://img.shields.io/badge/Total%20Problems%20Solved-3500+-blue?style=for-the-badge&logo=code&logoColor=white)](#)
+[![Years of Experience](https://img.shields.io/badge/Experience-2%20Years-green?style=for-the-badge&logo=checkmarking&logoColor=white)](#)
+[![Projects Completed](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge&logo=project&logoColor=white)](#)
+
 </div>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=dark" alt="mesahal" />
-</p>
-<h3>About Me</h3>
-<p>A Java Spring Boot Developer with 1 year of experience in web applications and microservices. With a background in competitive programming, I have solved over 3300 problems on platforms like Codeforces, LightOJ, and LeetCode, and hold an Expert rank on Codeforces. Currently contributing to <a href="https://cityremit.cblmoneytransfer.com/login">CityRemit</a>, a financial remittance app, and previously worked on <a href="https://convay.com/home">Convay</a>, a video conferencing solution. </p>
-<h3>Projects</h3>
+
+## 🎓 Education
+
+<table>
+<tr>
+<td>
+
+### 🏛️ Jahangirnagar University
+- 📚 B.Sc in Information Technology
+- 📅 2018 - 2023
+- 📊 CGPA: 3.45/4.00
+
+</td>
+<td>
+
+### 🏫 Notre Dame College
+- 📚 HSC in Science
+- 📅 2015 - 2017
+- 📊 GPA: 5.00/5.00
+
+</td>
+<td>
+
+### 🎯 Faizur Rahman Ideal Institute
+- 📚 SSC in Science
+- 📅 2007 - 2014
+- 📊 GPA: 5.00/5.00
+
+</td>
+</tr>
+</table>
+
+## 💼 Professional Experience
+
+### Current: Software Engineer @ Brain Station 23 PLC.
+<img align="right" width="150" src="https://brainstation-23.com/wp-content/uploads/2019/02/BS-Logo-Blue_Hr.png"/>
+
+> April 2024 - Present
+
+- Working on enterprise-level software solutions
+- Technologies: `React` `Node.js` `TypeScript` `AWS`
+- Leading development of critical features
+
+### Previous: Trainee Programmer @ Synesis IT Ltd.
+<img align="right" width="150" src="https://synesis.ltd/images/logo.png"/>
+
+> August 2023 - March 2024
+
+- Front-end development and API integration
+- Technologies: `JavaScript` `React` `REST APIs` `Git`
+- Contributed to multiple client projects
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+<h3>CityRemit</h3>
+<p>Financial remittance platform</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>Oracle</code> <code>Vue.js</code></p>
 <ul>
-  <li>
-    <b>
-      <a href="https://cityremit.cblmoneytransfer.com/login">CityRemit</a>
-    </b> - Financial remittance platform. <br>
-    <i>Tech Stack:</i> Java, Spring Boot, Oracle, Vue
-  </li>
-  <li>
-    <b>
-      <a href="https://convay.com/home">Convay</a>
-    </b> - Video conferencing platform. <br>
-    <i>Tech Stack:</i> Java, Spring Boot, React, MySQL
-  </li>
-  <li>
-    <b>
-      <a href="https://github.com/Sahal2000/bs-23-project-java-spring-boot">Task Management System</a>
-    </b> - Basic task management system. <br>
-    <i>Tech Stack:</i> Java, Spring Boot, React
-  </li>
+<li>Secure transfers</li>
+<li>Real-time tracking</li>
+<li>Multi-currency support</li>
 </ul>
-<h3>Languages and Tools:</h3>
-<p>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-  </a>
-</p>
-<h3>Competitive Programming Stats</h3>
+</td>
+<td width="33%">
+<h3>Convay</h3>
+<p>Video conferencing solution</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>MySQL</code></p>
 <ul>
-  <li>Codeforces Max Rating: 1694 - <a href="https://codeforces.com/profile/sahal">Profile</a>
-  </li>
-  <li>Codechef Max Rating: 1783 - <a href="https://www.codechef.com/users/sahal2000">Profile</a>
-  </li>
-  <li>Leetcode Max Rating: 1693 - <a href="https://leetcode.com/sahal2000/">Profile</a>
-  </li>
+<li>Real-time conferencing</li>
+<li>Screen sharing</li>
+<li>Meeting recording</li>
 </ul>
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://twitter.com/me__sahal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="me__sahal" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/me-sahal/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/sahal2000/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/sahal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009204558204" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009204558204" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/me__sahal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/me__sahal/" height="30" width="40" />
-  </a>
-</p>
+</td>
+<td width="33%">
+<h3>Health Care</h3>
+<p>Doctor appointment platform</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code></p>
+<ul>
+<li>Appointment booking</li>
+<li>BMDC validation</li>
+<li>Rating system</li>
+</ul>
+</td>
+</tr>
+</table>
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+### Platform Statistics
+<table>
+<tr>
+<th>Platform</th>
+<th>Rating</th>
+<th>Problems</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>
+<a href="https://codeforces.com/profile/sahal">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3628695-3029920.png" width="20"/> Codeforces
+</a>
+</td>
+<td>1694</td>
+<td>2750+</td>
+<td>
+<img src="https://img.shields.io/badge/Expert-blue?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://leetcode.com/sahal2000/">
+<img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" width="20"/> LeetCode
+</a>
+</td>
+<td>1747</td>
+<td>250+</td>
+<td>
+<img src="https://img.shields.io/badge/Knight-yellow?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.codechef.com/users/sahal2000">
+<img src="https://cdn.codechef.com/images/cc-logo.svg" width="20"/> CodeChef
+</a>
+</td>
+<td>1759</td>
+<td>50+</td>
+<td>
+<img src="https://img.shields.io/badge/4★-orange?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+### Notable Contest Achievements
+
+#### Online Contests
+- 🥈 Rank 217 in Codechef Starter 67 Div.2
+- 🥉 Rank 254 in Codeforces Round 760 Div. 3
+
+#### Onsite Contests
+- 🏆 Rank 11 in IDPC 2020A @ MBSTU
+- 🥈 Rank 35 in RUET IUPC 2022
+- 🥉 Rank 42 in AUST IUPC 2022
+
+</div>
+
+## 📝 Latest Blog Posts
+
+<table>
+<tr>
+<td width="33%">
+<h3>📸 Camera Specification – HDR</h3>
+<p>Understanding High Dynamic Range in modern camera systems</p>
+<a href="https://d-list.net/camera-specification-hdr-or-high-dynamic-range-explained/">Read More →</a>
+</td>
+<td width="33%">
+<h3>📱 Smartphone Proximity Sensor</h3>
+<p>Deep dive into how proximity sensors work in modern smartphones</p>
+<a href="https://d-list.net/smartphone-specification-proximity-sensor/">Read More →</a>
+</td>
+<td width="33%">
+<h3>💻 Competitive Programming Guide</h3>
+<p>A comprehensive guide to getting started with competitive programming</p>
+<a href="https://d-list.net/competitive-programming-what-and-why/">Read More →</a>
+</td>
+</tr>
+</table>
+
+## 💻 Technical Skills
+
+```javascript
+const sahal = {
+    languages: ['Java', 'JavaScript', 'TypeScript', 'C++'],
+    frontend: {
+        frameworks: ['React', 'Vue.js'],
+        styling: ['Tailwind CSS', 'Bootstrap'],
+        state: ['Redux', 'Vuex']
+    },
+    backend: {
+        frameworks: ['Spring Boot', 'Node.js'],
+        apis: ['REST', 'GraphQL'],
+        databases: ['Oracle', 'MySQL', 'PostgreSQL']
+    },
+    devops: ['Git', 'Docker', 'AWS', 'CI/CD'],
+    architecture: ['Microservices', 'MVC', 'Event-Driven'],
+    currentlyLearning: ['System Design', 'Cloud Architecture'],
+    funFact: "I've solved over 3500 programming problems! 🚀"
+};
+```
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak" />
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-sahal/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahal2000)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me__sahal)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/me.sahal2000)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me__sahal/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@me_sahal)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Let's connect and create something amazing together! Feel free to reach out for collaborations or just a friendly hello 👋</i>
+</div>
