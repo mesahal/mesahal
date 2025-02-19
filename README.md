@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/mesahal/mesahal/blob/main/back.png" alt="Header" width="100%"/>
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=As-salamu%20alaykum&fontSize=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&animation=twinkling"/>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=mesahal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
@@ -12,21 +12,17 @@
 
 > Software Engineer @ [Brain Station 23](https://brainstation-23.com) | Competitive Programmer | Problem Solver
 
-<div align="center">
-
 [![Total Problems Solved](https://img.shields.io/badge/Total%20Problems%20Solved-3500+-blue?style=for-the-badge&logo=code&logoColor=white)](#)
 [![Years of Experience](https://img.shields.io/badge/Experience-2%20Years-green?style=for-the-badge&logo=checkmarking&logoColor=white)](#)
 [![Projects Completed](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge&logo=project&logoColor=white)](#)
 
-</div>
-
-## 🎓 Education
+## � Education
 
 <table>
 <tr>
 <td>
 
-### 🏛️ Jahangirnagar University
+### � Jahangirnagar University
 - 📚 B.Sc in Information Technology
 - 📅 2018 - 2023
 - 📊 CGPA: 3.45/4.00
@@ -195,51 +191,32 @@
 
 ## 💻 Technical Skills
 
-```javascript
-const sahal = {
-    languages: ['Java', 'JavaScript', 'TypeScript', 'C++'],
-    frontend: {
-        frameworks: ['React', 'Vue.js'],
+
+languages: 'Java', 'JavaScript', 'TypeScript', 'C++',
+frontend: {
+        frameworks: ['React'],
         styling: ['Tailwind CSS', 'Bootstrap'],
-        state: ['Redux', 'Vuex']
     },
     backend: {
         frameworks: ['Spring Boot', 'Node.js'],
-        apis: ['REST', 'GraphQL'],
+        apis: ['REST'],
         databases: ['Oracle', 'MySQL', 'PostgreSQL']
     },
-    devops: ['Git', 'Docker', 'AWS', 'CI/CD'],
+    devops: 'Git', 'Docker',
     architecture: ['Microservices', 'MVC', 'Event-Driven'],
     currentlyLearning: ['System Design', 'Cloud Architecture'],
-    funFact: "I've solved over 3500 programming problems! 🚀"
-};
-```
+    funFact: "I've solved over 3500 programming problems! �"
 
-## 📊 GitHub Statistics
-
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak" /> </div>
+🤝 Connect with Me
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak" />
-</div>
+LinkedIn
+GitHub
+Twitter
+Facebook
+Instagram
+YouTube
 
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-sahal/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahal2000)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me__sahal)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/me.sahal2000)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me__sahal/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@me_sahal)
-
-</div>
-
----
-
-<div align="center">
-  <i>Let's connect and create something amazing together! Feel free to reach out for collaborations or just a friendly hello 👋</i>
-</div>
+</div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<div align="center"> <i>Let's connect and create something amazing together! Feel free to reach out for collaborations or just a friendly hello 👋</i> </div> 
