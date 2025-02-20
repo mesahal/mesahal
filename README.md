@@ -121,7 +121,7 @@
 </table>
 
 #### Online Contests
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0D47A1&text=🥈%20Rank%20217%20in%20Codechef%20Starter%2067%20Div.2%0A🥉&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=1&textBg=false&fontSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0D47A1&text=🥈%20Rank%20217&desc=Codechef%20Starter%2067%20Div.2🥉&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=20&textBg=false&fontSize=20&descAlignY=64&descAlign=60"/>
    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0D47A1&text=🥈%20RRank%20254%20in%20Codeforces%20Round%20760%20Div.3&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=1&textBg=false&fontSize=20"/>
 
 
