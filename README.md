@@ -1,51 +1,19 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=As-salamu%20alaykum&fontSize=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=As-salamu%20alaykum&fontSize=50&fontAlignY=35&desc=I'm%20Sahal&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=mesahal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
 
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mesahal&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-# 👋 As-salamu alaykum, I'm Sahal
 
-> Software Engineer @ [Brain Station 23](https://brainstation-23.com) | Competitive Programmer | Problem Solver
+> Software Engineer @ [Brain Station 23](https://brainstation-23.com) | Competitive Programmer | Problem Solver | Programming Trainer
 
 [![Total Problems Solved](https://img.shields.io/badge/Total%20Problems%20Solved-3500+-blue?style=for-the-badge&logo=code&logoColor=white)](#)
-[![Years of Experience](https://img.shields.io/badge/Experience-2%20Years-green?style=for-the-badge&logo=checkmarking&logoColor=white)](#)
-[![Projects Completed](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge&logo=project&logoColor=white)](#)
+[![Years of Experience](https://img.shields.io/badge/Experience-1.5%20Years-green?style=for-the-badge&logo=checkmarking&logoColor=white)](#)
+[![Projects Completed](https://img.shields.io/badge/Projects-3+-purple?style=for-the-badge&logo=project&logoColor=white)](#)
 
-## � Education
-
-<table>
-<tr>
-<td>
-
-### � Jahangirnagar University
-- 📚 B.Sc in Information Technology
-- 📅 2018 - 2023
-- 📊 CGPA: 3.45/4.00
-
-</td>
-<td>
-
-### 🏫 Notre Dame College
-- 📚 HSC in Science
-- 📅 2015 - 2017
-- 📊 GPA: 5.00/5.00
-
-</td>
-<td>
-
-### 🎯 Faizur Rahman Ideal Institute
-- 📚 SSC in Science
-- 📅 2007 - 2014
-- 📊 GPA: 5.00/5.00
-
-</td>
-</tr>
-</table>
 
 ## 💼 Professional Experience
 
@@ -55,17 +23,15 @@
 > April 2024 - Present
 
 - Working on enterprise-level software solutions
-- Technologies: `React` `Node.js` `TypeScript` `AWS`
-- Leading development of critical features
+- Technologies: `Java` `Spring Boot` `Microservice` `FinTech`
 
 ### Previous: Trainee Programmer @ Synesis IT Ltd.
 <img align="right" width="150" src="https://synesis.ltd/images/logo.png"/>
 
 > August 2023 - March 2024
 
-- Front-end development and API integration
-- Technologies: `JavaScript` `React` `REST APIs` `Git`
-- Contributed to multiple client projects
+- Back-end & Front-end development and API integration
+- Technologies: `JavaScript` `React` `Java` `Spring Boot`
 
 ## 🚀 Featured Projects
 
@@ -112,9 +78,9 @@
 <table>
 <tr>
 <th>Platform</th>
-<th>Rating</th>
+<th>Max Rating</th>
 <th>Problems</th>
-<th>Status</th>
+<th>Max Status</th>
 </tr>
 <tr>
 <td>
@@ -154,11 +120,10 @@
 </tr>
 </table>
 
-### Notable Contest Achievements
-
 #### Online Contests
-- 🥈 Rank 217 in Codechef Starter 67 Div.2
-- 🥉 Rank 254 in Codeforces Round 760 Div. 3
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0D47A1&text=🥈%20Rank%20217%20in%20Codechef%20Starter%2067%20Div.2%0A🥉&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=1&textBg=false&fontSize=20"/>
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0D47A1&text=🥈%20RRank%20254%20in%20Codeforces%20Round%20760%20Div.3&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=1&textBg=false&fontSize=20"/>
+
 
 #### Onsite Contests
 - 🏆 Rank 11 in IDPC 2020A @ MBSTU
@@ -204,8 +169,6 @@
 
 ### 🛠 Backend  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
 
 ### 🗄️ Databases  
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
@@ -221,15 +184,15 @@
 ![MVC](https://img.shields.io/badge/MVC-%23007ACC.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Event-Driven](https://img.shields.io/badge/Event--Driven-%231E90FF.svg?style=for-the-badge&logo=eventbrite&logoColor=white)
 
-### 📚 Currently Learning  
-![System Design](https://img.shields.io/badge/System%20Design-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-%23FF6F00.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ### 🎉 Fun Fact  
 🚀 **I've solved over 3500 programming problems!**  
 
 📊 GitHub Statistics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak" /> </div>
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mesahal&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 🤝 Connect with Me
 <div align="center">
 LinkedIn
