@@ -18,15 +18,15 @@
 ## 💼 Professional Experience
 
 ### Current: Software Engineer @ Brain Station 23 PLC.
-<img align="right" width="150" src="https://brainstation-23.com/wp-content/uploads/2019/02/BS-Logo-Blue_Hr.png"/>
+<img align="right" width="80" src="https://media.licdn.com/dms/image/v2/C510BAQEhBWM1jX08fw/company-logo_200_200/company-logo_200_200/0/1630578624123/brain_station_23_logo?e=1748476800&v=beta&t=78aNFBZpNaCDBhA_Sybv8_NRv3JJg1XWA6rTskJtZHo"/>
 
 > April 2024 - Present
 
 - Working on enterprise-level software solutions
 - Technologies: `Java` `Spring Boot` `Microservice` `FinTech`
 
-### Previous: Trainee Programmer @ Synesis IT Ltd.
-<img align="right" width="150" src="https://synesis.ltd/images/logo.png"/>
+### Previous: Trainee Programmer @ Synesis IT PLC.
+<img align="right" width="80" src="https://media.licdn.com/dms/image/v2/C560BAQGR9K7OrOwDBw/company-logo_100_100/company-logo_100_100/0/1636786495526/synesis_it_limited_logo?e=1748476800&v=beta&t=imcjmJrhR02pUqvRy17BMrF-qStLtJKyoOMfm3cUeRE"/>
 
 > August 2023 - March 2024
 
@@ -191,10 +191,18 @@
 
 
 📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak" /> </div>
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" width="250"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats"  width="330"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak"  width="350"/> 
+</div>
   
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mesahal&theme=algolia&no-frame=true&no-bg=true&margin-w=15)
 
 <div align="center">
+
+
+
 <a href="https://www.linkedin.com/in/me-sahal/">
   <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square1-512.png" width="20"/>
 </a>
@@ -218,7 +226,5 @@
 <a href="https://www.youtube.com/@me__sahal" >
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTlAwmfZoEgwWSwjD-jpQ9N2QWdMgdgETGPw&s" width="20"/>
 </a>
-
-
 </div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mesahal&theme=nord&column=7&margin-w=15&margin-h=15)]
+
