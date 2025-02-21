@@ -72,7 +72,7 @@
 
 ## 🏆 Competitive Programming
 
-<div align="center">
+<div align="left">
 
 ### Platform Statistics
 <table>
@@ -121,14 +121,13 @@
 </table>
 
 #### Online Contests
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0D47A1&text=🥈%20Rank%20217&desc=Codechef%20Starter%2067%20Div.2🥉&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=20&textBg=false&fontSize=20&descAlignY=64&descAlign=60"/>
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0D47A1&text=🥈%20RRank%20254%20in%20Codeforces%20Round%20760%20Div.3&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&descSize=1&textBg=false&fontSize=20"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=1f2b40&text=🥈Rank%20217th&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=13&fontAlignY=31&descSize=20&textBg=false&fontSize=20&desc=%20Codechef%20Starter%2067%20Div.2&descAlignY=68&descAlign=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=1f2b40&text=🥈Rank%20254th&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=13&fontAlignY=31&descSize=20&textBg=false&fontSize=20&desc=Codeforces%20Round%20760%20Div.%203&descAlignY=68&descAlign=18"/>
 
 #### Onsite Contests
-- 🏆 Rank 11 in IDPC 2020A @ MBSTU
-- 🥈 Rank 35 in RUET IUPC 2022
-- 🥉 Rank 42 in AUST IUPC 2022
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=33&color=1f2b40&text=🏆%20Rank%2011%20in%20IDPC%202020A%20@%20MBSTU&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=22&fontAlignY=54&descSize=20&textBg=false&fontSize=20&descAlignY=68&descAlign=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=33&color=1f2b40&text=🥈%20Rank%2035%20in%20RUET%20IUPC%202022&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=19&fontAlignY=54&descSize=20&textBg=false&fontSize=20&descAlignY=68&descAlign=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=33&color=1f2b40&text=🥉%20Rank%2042%20in%20AUST%20IUPC%202022&reversal=false&animation=fadeIn&fontColor=FFFFFF&fontAlign=19&fontAlignY=54&descSize=20&textBg=false&fontSize=20&descAlignY=68&descAlign=18"/>
 
 </div>
 
@@ -189,18 +188,37 @@
 ### 🎉 Fun Fact  
 🚀 **I've solved over 3500 programming problems!**  
 
+
+
 📊 GitHub Statistics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesahal&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=mesahal&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesahal&theme=nord" alt="GitHub Streak" /> </div>
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mesahal&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
 
-🤝 Connect with Me
 <div align="center">
-LinkedIn
-GitHub
-Twitter
-Facebook
-Instagram
-YouTube
+<a href="https://www.linkedin.com/in/me-sahal/">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square1-512.png" width="20"/>
+</a>
+
+<a href="https://github.com/mesahal" >
+  <img src="https://cdn-icons-png.freepik.com/512/5968/5968866.png" width="20"/>
+</a>
+
+<a href="https://twitter.com/me__sahal" >
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM0nDn4FFytMb4NyM6o854HLhVri3qBYaO1Q&s" width="20"/>
+</a>
+
+<a href="https://www.facebook.com/memdsahal" >
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxOMUNq_G-2Tqqcm2l1UYB3WCjRHx6KI2xg&s" width="20"/>
+</a>
+
+<a href="https://www.instagram.com/me_md_sahal" >
+  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" width="20"/>
+</a>
+
+<a href="https://www.youtube.com/@me__sahal" >
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTlAwmfZoEgwWSwjD-jpQ9N2QWdMgdgETGPw&s" width="20"/>
+</a>
+
 
 </div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-<div align="center"> <i>Let's connect and create something amazing together! Feel free to reach out for collaborations or just a friendly hello 👋</i> </div> 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mesahal&theme=nord&column=7&margin-w=15&margin-h=15)]
